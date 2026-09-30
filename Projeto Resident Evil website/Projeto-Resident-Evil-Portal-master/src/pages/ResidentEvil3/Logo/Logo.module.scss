@@ -1,0 +1,12 @@
+@import "../../../styles/variables.scss";
+
+.logo {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 1.5vw;
+
+    img {
+        width: 10rem;
+    }
+}

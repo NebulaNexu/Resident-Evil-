@@ -1,0 +1,94 @@
+@import "../../../styles/variables.scss";
+@import "../../../styles/mixins.scss";
+
+.main {
+    @include justify-center;
+    width: 100%;
+    height: 100vh;
+    position:relative ;
+    padding: 0 1.875rem;
+    background: #0c0c0c;
+    overflow: hidden;
+
+    @media (min-width: 768px) {
+        @include justify-start;
+    }
+
+    &:before {
+        content: "";
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        position: absolute;
+        background-color: transparent;
+        z-index: 2;
+    }
+
+    &_bg {
+        width: 100%;
+        height: 100%;
+        background-color: transparent;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        position: absolute;
+        overflow: hidden;
+
+        .video {
+            width: 100%;
+            height: 100%;
+            background: #232a34;
+            object-fit: cover;
+            -o-object-fit: cover;
+        }
+    }
+
+    &_content {
+        max-width: 100vw;
+        width: 100%;
+        @include justify-center;
+        flex-direction: column;
+        position: absolute;
+        z-index: 3;
+        padding: 0.5rem 1.5rem;
+
+        .logo{
+           @include justify-center;
+           flex-direction: column;
+           position: absolute;
+           position: relative;
+           width: 100vw;
+           height: 300px;            
+        }
+
+        img {
+            width: 800px; 
+            margin-left: -1vw;
+        }
+
+        h3 {
+           font-size: 3.5rem; 
+           color: $white;
+           text-shadow: 1px 1px 8px rgba(216, 1, 39, 0.4), 1px -1px 8px rgba(216, 1, 39, 0.4), -1px 1px 8px rgba(216, 1, 39, 0.4), -1px -1px 8px rgba(216, 1, 39, 0.4);
+           font-family: $font-family;
+
+           @media (max-width: 424px) {
+             font-size: 2rem;   
+            }
+        }
+
+        h4,
+        h5 {
+            color: $white;
+            font-weight: 400;
+            margin: 1rem 0;
+        }
+
+        &_button {
+            @include justify-center;
+            margin-top: 1rem;
+        }
+    }
+}

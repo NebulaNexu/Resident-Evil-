@@ -1,0 +1,16 @@
+@import "../../../styles/variables.scss";
+@import "../../../styles/mixins.scss";
+
+.wrapper {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+@media only screen and (max-width: 1023px) {
+  .wrapper {
+    width: 100%;
+    height: auto;
+    position: relative;
+    background: #000;
+  }
+}

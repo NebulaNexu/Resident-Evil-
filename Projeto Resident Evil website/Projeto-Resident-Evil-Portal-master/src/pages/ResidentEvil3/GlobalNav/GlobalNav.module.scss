@@ -1,0 +1,169 @@
+@import "../../../styles/variables.scss";
+@import "../../../styles/mixins.scss";
+
+.global_nav {
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 6; 
+}
+
+  @media only screen and (min-width: 1024px) {
+    .global_nav {
+      right: 0;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      -moz-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); } 
+    }
+
+    @media only screen and (max-width: 1023px) {
+      .global_nav_list {
+        padding-top: 10vw; } 
+      }
+
+    @media only screen and (max-width: 640px) {
+      .global_nav_list {
+        padding-top: 15vw; } 
+      }
+
+  .global_nav_list li {
+    font-size: 3vw;
+    font-family: $font-family;
+    font-stretch: ultra-condensed;
+    font-weight: 600;
+    text-align: right; 
+  }
+
+  .global_nav_list li a:hover {
+    color:#eb0000;
+    cursor: pointer;
+    transition: ease-in-out 3ms;
+  }
+
+  .global_nav_list li:nth-of-type(1) {
+    transition:opacity .3s linear 0.4s,transform .3s ease-out 0.4s
+  }
+  .global_nav_list li:nth-of-type(2) {
+    transition:opacity .3s linear 0.5s,transform .3s ease-out 0.5s
+  }
+  .global_nav_list li:nth-of-type(3) {
+    transition:opacity .3s linear 0.6s,transform .3s ease-out 0.6s
+  }
+  .global_nav_list li:nth-of-type(4) {
+    transition:opacity .3s linear 0.7s,transform .3s ease-out 0.7s
+  }
+  .global_nav_list li:nth-of-type(5) {
+    transition:opacity .3s linear 0.8s,transform .3s ease-out 0.8s
+  }
+  .global_nav_list li:nth-of-type(6) {
+    transition:opacity .3s linear 0.9s,transform .3s ease-out 0.9s
+  }
+  .global_nav_list li:nth-of-type(7) {
+    transition:opacity .3s linear 1s,transform .3s ease-out 1s
+  }
+
+    @media only screen and (max-width: 400px) {
+      .global_nav_list li {
+        margin-right: -52vw;
+        position: relative;
+        transition: margin-right .25s ease-in .1s; 
+      } 
+    }
+
+    .global_nav_list li a {
+      color: #FFF;
+      font-size: 1.111vw;
+      letter-spacing: 0.11111px;
+      display: inline-block;
+      transition: color .25s ease-in, opacity .25s ease-in, text-shadow .25s ease-in; 
+    }
+
+    @media only screen and (max-width: 1700px) {
+      .global_nav_list li a {
+        color: #FFF;
+        font-size: 1.5vw;
+        letter-spacing: 0.11111px;
+        transition: color .25s ease-in, opacity .25s ease-in, text-shadow .25s ease-in;  
+      } 
+    } 
+
+    @media only screen and (max-width: 1024px) {
+      .global_nav_list li a {
+        color: #FFF;
+        top: -5vw;
+        font-size: 2.5vw;
+        transition: color .25s ease-in, opacity .25s ease-in, text-shadow .25s ease-in;  
+      } 
+    } 
+
+    @media only screen and (min-width: 1024px) {
+      .global_nav_list li {
+        color: #FFF;
+        font-size: 1.111vw;
+        letter-spacing: 0.11111px;
+        transition: color .25s ease-in, opacity .25s ease-in, text-shadow .25s ease-in;  
+      } 
+    }      
+
+    .global_nav_list li:not(.current):not(.link_btn) a:hover {
+      opacity: .8; 
+    }
+
+    .global_nav_list li:not(:last-child) {
+      margin-bottom: 1.9vw;
+      letter-spacing: .02rem;
+    }
+
+      @media only screen and (min-width: 1024px) {
+        .global-nav-list li:not(:last-child) {
+          margin-bottom: 2vw; } 
+        }
+
+    .global_nav_list li:not(.link_btn) a::after {
+      color: rgba(255, 255, 255, 0.8);
+      content: "\02014";
+      display: inline-block;
+      font-weight: 700;
+      margin-left: 0.25em;
+    }
+    
+    .global_nav_list li.nav_mutual_link {
+      background: rgba(0, 0, 0, 0.5);
+      margin-left: auto;
+      width: 60%; 
+    }
+
+    .global_nav_list li.nav_mutual_link a::after {
+      display: none; 
+    }
+
+    .global_nav_list li.nav_mutual_link img {
+      border: 1px solid #D80127;
+      height: auto;
+      width: 100%; 
+    }
+
+    @media only screen and (min-width: 1024px) {
+      .global_nav_list li.nav_mutual_link {
+        margin-top: 4vw;
+        max-width: 120px;
+        width: 100%; } 
+      }
+
+      @media only screen and (max-width: 790px) {
+        .nav_mutual_link img {
+          margin-top: 4vw;
+          max-width: 120px;
+          width: 100%; 
+        } 
+      }
+
+      @media only screen and (max-width: 420px) {
+        .nav_mutual_link img {
+          display: none; 
+        } 
+      }
+
+      
