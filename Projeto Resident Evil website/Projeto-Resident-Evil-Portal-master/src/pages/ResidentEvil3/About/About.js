@@ -5,44 +5,36 @@ import styles from './About.module.scss'
 function Sobre() {
   return (
     <div className={styles.conts_box_about} id="about">
-      <h2 className={styles.sec_ttl_about}>ABOUT</h2>
+      <h2 className={styles.sec_ttl_about}>SOBRE O JOGO</h2>
         <div className={styles.conts_box_inner_about_story}>
         <h3 className={styles.conts_ttl_about}>
-          Descubra the origins of this 
-          unprecedented biohazard, 
-          and witness its end.
+          Descubra a origem deste incidente biológico sem precedentes
+          e testemunhe seu desfecho.
         </h3>
         <div className={styles.text_box_about}>
           <p className={styles.lead}>
-            Fight your way to freedom from the brink of despair
+            Lute para conquistar sua liberdade à beira do desespero
           </p>
           <p>
-            A series of strange disappearances have been 
-            occurring in the American Midwest within a 
-            place called Racoon City. A specialist 
-            squad of the police force known as S.T.A.R.S. 
-            has been investigating the case, and have 
-            determined that the pharmaceutical company 
-            Umbrella and their biological weapon, the 
-            T-Virus, are behind the incidents—though 
-            they've lost several members in the process. 
-            Jill Valentine and the other surviving S.T.A.R.S. 
-            members try to make this truth known, but 
-            find that the police department itself is 
-            under Umbrella's sway and their reports are 
-            rejected out of hand.
+            Uma série de desaparecimentos misteriosos vem ocorrendo no
+            meio-oeste dos Estados Unidos, em uma cidade chamada Raccoon
+            City. A unidade especial da polícia conhecida como S.T.A.R.S.
+            investiga o caso e descobre que a farmacêutica Umbrella e sua
+            arma biológica, o T-Vírus, estão por trás dos incidentes, embora
+            vários integrantes da equipe tenham morrido durante a investigação.
+            Jill Valentine e os demais sobreviventes dos S.T.A.R.S. tentam
+            revelar a verdade, mas descobrem que até a polícia está sob a
+            influência da Umbrella e rejeita seus relatos.
           </p>
           <p>
-            However, soon reports of a grisly "cannibal virus" 
-            begin to surface, and vicious dogs begin roaming 
-            the streets. With the viral plague spreading 
-            through the town and to her very doorstep, Jill 
-            is determined to survive.
+            Logo surgem relatos de um terrível "vírus canibal", e cães
+            ferozes passam a vagar pelas ruas. Com a praga se espalhando
+            pela cidade e chegando à sua porta, Jill está determinada a
+            sobreviver.
           <br>
           </br>
-            However, unbeknownst to Jill, an extremely 
-            powerful pursuer has already been dispatched 
-            to eliminate her.
+            Sem que Jill saiba, um perseguidor extremamente poderoso já
+            foi enviado para eliminá-la.
           </p>
         </div>
 
@@ -50,35 +42,28 @@ function Sobre() {
         <div className={styles.conts_box_inner_about_about}>
           <div className={styles.text_box_about}>
             <p className={styles.lead}>
-              Mais about the 1999 classic
+              Saiba mais sobre o clássico de 1999
             </p>
             <p>
-              The original game, Resident Evil 3: Nemesis 
-              was released in September 1999, and has gone 
-              on to sell over 3.5 million copies as of 
-              September 30, 2019.
+              O jogo original, Resident Evil 3: Nemesis, foi lançado em
+              setembro de 1999 e vendeu mais de 3,5 milhões de cópias até
+              30 de setembro de 2019.
               <br>
               </br>
-              Just like its predecessor, Resident Evil 2, 
-              the game is set in Raccoon City, a city 
-              overrun by a whole new kind of biological 
-              threat, but this game illustrates the outbreak 
-              and conclusion of the incident.
+              Assim como seu antecessor, Resident Evil 2, o jogo se passa
+              em Raccoon City, tomada por uma nova ameaça biológica, e
+              retrata o início e o desfecho do incidente.
               <br>
               </br>
-              It follows the protagonist Jill Valentine 
-              as she fights to escape her pursuer, the 
-              Nemesis T-Type, and offers a new kind of 
-              survival horror which plays off the fear 
-              of being constantly and relentlessly 
-              chased.
+              A história acompanha Jill Valentine enquanto ela tenta
+              escapar de seu perseguidor, o Nemesis T-Type, e apresenta
+              uma nova abordagem ao terror de sobrevivência, explorando
+              o medo de ser perseguida sem trégua.
             </p>
             <p>
-              This game, Resident Evil 3, reimagines 
-              this city as it falls into chaos beneath 
-              the undead horde, with a level of detail 
-              and fidelity that can only now be realized 
-              with current technology.
+              Este jogo reimagina Raccoon City mergulhada no caos sob o
+              avanço da horda de mortos-vivos, com um nível de detalhes e
+              fidelidade possível graças à tecnologia atual.
             </p>
           </div>
         </div>

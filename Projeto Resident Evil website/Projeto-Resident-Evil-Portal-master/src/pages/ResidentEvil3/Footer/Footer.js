@@ -32,23 +32,21 @@ function Footer() {
 
         <ul className={styles.title_footer_platform_copyright}>
           <li>
-            "PlayStation" and the "PS" Family logo are 
-            registered trademarks and "PS4" is a 
-            trademark of Sony Interactive Entertainment Inc.
+            "PlayStation" e o logotipo da família "PS" são marcas
+            registradas, e "PS4" é uma marca da Sony Interactive Entertainment Inc.
           </li>
 
           <li>
-            © Valve Corporation. Steam and the Steam logo 
-            are trademarks and/or registered trademarks 
-            of Valve Corporation in the U.S. and/or other 
-            countries.
+            © Valve Corporation. Steam e o logotipo Steam são marcas
+            comerciais e/ou marcas registradas da Valve Corporation nos
+            Estados Unidos e em outros países.
           </li>
         </ul>
 
         <ul className={styles.title_footer_menu}>
           <li>
             <a>
-              Privacy Policy
+              Política de privacidade
             </a>
           </li>
         </ul>

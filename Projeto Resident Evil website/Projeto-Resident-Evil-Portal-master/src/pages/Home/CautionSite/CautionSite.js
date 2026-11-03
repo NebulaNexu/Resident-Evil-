@@ -6,11 +6,11 @@ function CautionSite() {
   return (
     <div className={styles.caution_site}>
       <dl className={styles.dl}>
-        <dt>Sobre RESIDENT EVIL PORTAL</dt>
+        <dt>Sobre o RESIDENT EVIL PORTAL</dt>
         <dd>
-          <a>
-            MORE
-          </a>
+          <button type="button" className={styles.linkButton}>
+            MAIS
+          </button>
         </dd>
       </dl>
     </div>

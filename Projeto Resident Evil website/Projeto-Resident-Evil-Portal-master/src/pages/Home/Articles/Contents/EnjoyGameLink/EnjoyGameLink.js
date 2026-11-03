@@ -18,20 +18,20 @@ function EnjoyGameLink() {
       <Fade left duration={2200}>
         <div className={styles.gamelink_left}>
           <h3>
-          PLAY DATA
+          DADOS DO JOGO
             <span className={styles.logo}>
               <img src={GameLinkIMG} alt="Game Link" />
             </span>
           </h3>
           <p>
-            A free web service linked with supported games 
+            Um serviço gratuito conectado aos jogos compatíveis
           <br>
           </br>
-            to enhance the Resident Evil experience.
+            para aprimorar sua experiência com Resident Evil.
           </p>
-          <a className={styles.btn}>
-            MORE
-          </a>
+          <button type="button" className={styles.btn}>
+            MAIS
+          </button>
         </div>
       </Fade>
 
@@ -45,7 +45,7 @@ function EnjoyGameLink() {
         <Fade duration={2800}>
           <li className={styles.re723}>
             <div className={styles.re723_intro}>
-              <p>RE NET supports Current Generation Plataformas!</p>
+              <p>O RE NET oferece suporte às plataformas da geração atual!</p>
               <ul className={styles.re723_intro_hard}>
               <li>
                 <img src={Ps4LogoIMG} alt="logo ps4" />

@@ -9,14 +9,14 @@ function Sobre() {
       <div className={styles.inner}>        
           <div className={styles.about_left}>
             <Fade bottom duration={2200}>
-              <h3>HISTORY</h3>
+              <h3>HISTÓRIA</h3>
             </Fade>
             <Fade bottom duration={2400}>
             <p>            
-              Capcom released Resident Evil in 1996            
+              A Capcom lançou Resident Evil em 1996
               <br>
               </br>           
-              and forever defined the world of survival horror.           
+              e definiu para sempre o gênero de terror de sobrevivência.
             </p>
             </Fade>
             <Fade bottom duration={2900}>

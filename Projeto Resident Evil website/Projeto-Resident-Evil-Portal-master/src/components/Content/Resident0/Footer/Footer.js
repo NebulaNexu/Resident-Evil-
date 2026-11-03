@@ -65,7 +65,7 @@ function Footer() {
 
         <ul className={styles.title_footer_menu}>
           <li>
-            <a href='https://www.capcom.com/capcom/legal_privacy/privacy.html' target={'_blank'} rel="noreferrer">Privacy Policy</a>
+            <a href='https://www.capcom.com/capcom/legal_privacy/privacy.html' target={'_blank'} rel="noreferrer">Política de privacidade</a>
           </li>
         </ul>
 

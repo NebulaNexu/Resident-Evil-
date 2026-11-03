@@ -41,8 +41,8 @@ const Hero = () => {
               alt="Nintendo Switch" />
             </div>
             <div className={styles.firstView_switch_info}>
-              <div className={styles.firstView_switch_text}>Nintendo Switch™ version</div>
-              <div className={styles.firstView_switch_date}>Available Now</div>
+              <div className={styles.firstView_switch_text}>Versão para Nintendo Switch™</div>
+              <div className={styles.firstView_switch_date}>Disponível</div>
             </div>
           </div>
           <div className={styles.firstView_otherPlats}>
@@ -57,7 +57,7 @@ const Hero = () => {
             </a>
           </p>
         </div>
-        <div className={styles.firstView_scroll}>SCROLL</div>                    
+        <div className={styles.firstView_scroll}>ROLE A PÁGINA</div>
     </div>
   );
 };

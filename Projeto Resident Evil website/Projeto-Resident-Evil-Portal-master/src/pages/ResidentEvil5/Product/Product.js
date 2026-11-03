@@ -19,43 +19,39 @@ const Product = () => {
     <div id="product" className={styles.product_wrap}>
       <div data-aos="fade" className={styles.product}>
         <div className={styles.product_ttlset}>
-          <h3 className={styles.product_ttl}>PRODUCT</h3>
+          <h3 className={styles.product_ttl}>PRODUTO</h3>
           <h2 className={styles.product_ttl_main}>Nintendo Switch™</h2>
           <ul className={styles.spec_note_list}>
             <li className={styles.spec_note_item}>
-              Extra content may differ from previous platforms.</li>
+              O conteúdo adicional pode variar conforme a plataforma.</li>
           </ul>
         </div>
         <div className={styles.product_package}>
           <div className={styles.product_media_lead}>
-              <span>Physical Edition</span>
+              <span>Versão física</span>
           </div>
           <div className={styles.product_flexwrap}>
             <div className={styles.product_descr}>
               <div className={styles.product_lead}>
-                The ominous shadow of bioterrorism 
-                spreads across the globe, and only 
-                you can stop it in the Resident Evil 
-                Triple Pack!
+                A sombra ameaçadora do bioterrorismo se espalha pelo mundo,
+                e só você pode detê-la no pacote triplo de Resident Evil!
               </div>
               <div className={styles.product_set_title}>
                   <img src={PromoLogoIMG} alt="Logo Promo" />
               </div>
               <div className={styles.download_product_lead}>
                 <div className={styles.download_product_lead_date}>
-                  <span className={styles.download_product_lead_date_num}>Available Now</span>
+                  <span className={styles.download_product_lead_date_num}>Disponível</span>
                 </div>
               </div>
               <div className={styles.product_package_notes}>
                 <p className={styles.product_package_notes_strong}>
-                  This product comes with a game card for 
-                  Resident Evil 4 and download codes for 
-                  Resident Evil 5 and Resident Evil 6.
+                  Este produto inclui um cartão de jogo de Resident Evil 4
+                  e códigos para baixar Resident Evil 5 e Resident Evil 6.
                 </p>
                 <p className={styles.with_indent}>
-                  (An internet connection and Nintendo 
-                  Account are also required to download 
-                  the game.)
+                  (É necessária uma conexão com a internet e uma Conta
+                  Nintendo para baixar os jogos.)
                 </p>
               </div>
             </div>
@@ -69,27 +65,24 @@ const Product = () => {
 								Nintendo Switch™ Trial Version Now Available!
               </h3>
               <h4 className={styles.trialVersion_special}>
-								Benefits for Purchasing After the Trial!
+								Vantagens de comprar o jogo após a demonstração!
               </h4>
             </div>
             <div className={styles.trialVerison_detail}>
-              Enjoy Chapter 1-1: Civilian Checkpoint in this downloadable 
-              trial available in the Nintendo eShop. If you purchase the 
-              game after you're done, you can transfer your trial data! 
-              Not only can you begin from the following stage, but you 
-              can also save your Completion Rank, Clear Time, Records, and Library 
-              content! How about acquired items such as weapons, ammo, herbs, and 
-              money? Although they have maximum limits, you can transfer 
-              these too! As another benefit for buying the game 
-              after your trial, you can unlock the 'Safari' EX costume
-               for Chris! Change into this costume immediately and enjoy 
-               the game in this new outfit!
+              Jogue o capítulo 1-1: Posto de Controle Civil nesta demonstração
+              para download disponível na Nintendo eShop. Ao comprar o jogo,
+              você poderá transferir os dados da demonstração e continuar da
+              fase seguinte, mantendo sua classificação, tempo, registros e
+              conteúdo da biblioteca. Também é possível transferir itens como
+              armas, munição, ervas e dinheiro, respeitando os limites máximos.
+              Além disso, você desbloqueia o traje EX "Safari" de Chris para
+              aproveitar o jogo com um novo visual.
             </div>
           </div>
         </div>
         <div className={styles.product_download}>
           <div className={styles.product_media_lead}>
-            <span>Downloadable Edition</span>
+            <span>Versão digital</span>
           </div>
           <div className={styles.product_flex_wrap}>
             <div className={styles.product_image_download}>
@@ -98,7 +91,7 @@ const Product = () => {
             <div className={styles.product_descr}>
               <a className={styles.product_btn} href="https://www.nintendo.com/games/detail/resident-evil-0-switch"
                 target="blank">
-                <span>Buy Now</span>
+                <span>Comprar</span>
               </a>
               <ul className={styles.product_notes}>
               </ul>
@@ -110,21 +103,18 @@ const Product = () => {
 								Nintendo Switch™ Trial Version Now Available!
               </h3>
               <h4 className={styles.trialVersion_special}>
-								Benefits for Purchasing After the Trial!
+								Vantagens de comprar o jogo após a demonstração!
               </h4>
             </div>
             <div className={styles.trialVerison_detail}>
-              Enjoy Chapter 1-1: Civilian Checkpoint in this downloadable 
-              trial available in the Nintendo eShop. If you purchase the 
-              game after you're done, you can transfer your trial data! 
-              Not only can you begin from the following stage, but you 
-              can also save your Completion Rank, Clear Time, Records, and Library 
-              content! How about acquired items such as weapons, ammo, herbs, and 
-              money? Although they have maximum limits, you can transfer 
-              these too! As another benefit for buying the game 
-              after your trial, you can unlock the 'Safari' EX costume
-               for Chris! Change into this costume immediately and enjoy 
-               the game in this new outfit!
+              Jogue o capítulo 1-1: Posto de Controle Civil nesta demonstração
+              para download disponível na Nintendo eShop. Ao comprar o jogo,
+              você poderá transferir os dados da demonstração e continuar da
+              fase seguinte, mantendo sua classificação, tempo, registros e
+              conteúdo da biblioteca. Também é possível transferir itens como
+              armas, munição, ervas e dinheiro, respeitando os limites máximos.
+              Além disso, você desbloqueia o traje EX "Safari" de Chris para
+              aproveitar o jogo com um novo visual.
             </div>
           </div>
         </div>

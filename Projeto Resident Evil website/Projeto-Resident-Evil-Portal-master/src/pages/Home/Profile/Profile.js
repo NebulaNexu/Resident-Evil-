@@ -8,18 +8,18 @@ function Profile() {
 
   return (
     <div className={styles.contents}>
-      <sections className={styles.contents_profile}>
+      <section className={styles.contents_profile}>
         <div className={styles.inner}>
-          <h2>MY PROFILE</h2>
+          <h2>MEU PERFIL</h2>
             <p className={styles.contents_profile_text}>
-              Get the most out of your experience
-              by personalizing your profile page!
+              Aproveite ao máximo sua experiência
+              personalizando sua página de perfil!
             </p>
-            <p className={styles.btn}>
-              MY PROFILE
-            </p>
+            <button type="button" className={styles.btn}>
+              MEU PERFIL
+            </button>
         </div>
-      </sections>
+      </section>
     </div>
   )
 }

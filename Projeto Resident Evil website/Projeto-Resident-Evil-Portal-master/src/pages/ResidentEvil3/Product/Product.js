@@ -22,7 +22,7 @@ function Product() {
   return (
     <div className={styles.conts_box} id="information">
       <div className={styles.conts_box_inner}>
-        <h2 className={styles.sec_ttl}>PRODUCT INFORMATION</h2>
+        <h2 className={styles.sec_ttl}>INFORMAÇÕES DO PRODUTO</h2>
         <div className={styles.product_box}>
           <ul className={styles.pf_list}>
 
@@ -32,7 +32,7 @@ function Product() {
               </p>
               <ul className={styles.fmt_list}>
                 <li className={styles.fmt}>
-                  <span className={styles.mh}>Physical</span>
+                  <span className={styles.mh}>Físico</span>
                 </li>
                 <li className={styles.fmt}>
                   <span className={styles.mh}>Digital</span>
@@ -46,7 +46,7 @@ function Product() {
               </p>
               <ul className={styles.fmt_list}>
                 <li className={styles.fmt}>
-                  <span className={styles.mh}>Physical</span>
+                  <span className={styles.mh}>Físico</span>
                 </li>
                 <li className={styles.fmt}>
                   <span className={styles.mh}>Digital</span>
@@ -69,10 +69,10 @@ function Product() {
           <div className={styles.product_detail}>
             <ul className={styles.ed_list}>
               <li className={styles.ed_normal}>
-                <span>Standard Edition</span>
+                <span>Edição padrão</span>
               </li>
               <li className={styles.ed_collectors}>
-                <span>Collector's Edition</span>
+                <span>Edição de colecionador</span>
               </li>
             </ul>
 
@@ -157,14 +157,14 @@ function Product() {
               </div>
 
               <div className={styles.product_note}>
-                <p className={styles.product_note_list_ttl}>Note:</p>
+                <p className={styles.product_note_list_ttl}>Observação:</p>
                 <ul className={styles.product_note_list}>
                   <li>
                     Resident Evil 3 also includes Resident Evil Resistance.
                   </li>
 
                   <li>
-                    Images are used for illustrative purposes.
+                    Imagens meramente ilustrativas.
                   </li>
                 </ul>
               </div>

@@ -24,25 +24,22 @@ function StoryWrapper() {
             <div className={styles.system_descr_bg}></div>
               <div className={styles.system_descr_inner}>
               <h3 className={styles.system_lead}>                  
-                Four Personagens, One Fate
+                Quatro personagens, um destino
               </h3>
               <div  className={styles.system_detail}>
-                Resident Evil 6 was originally released in October 2012. 
-                Consisting of four separate, yet interlocking 
-                stories, players were confronted with a biological 
-                terrorist threat on a global scale. The game also 
-                drew acclaim as the first Resident Evil to feature 
-                both Chris Redfield and Leon S. Kennedy in a single 
-                title. 
+                Resident Evil 6 foi lançado originalmente em outubro de
+                2012. Com quatro histórias distintas, mas interligadas,
+                o jogo coloca os personagens diante de uma ameaça
+                bioterrorista de escala global. Também foi o primeiro
+                Resident Evil a reunir Chris Redfield e Leon S. Kennedy
+                no mesmo título.
               <br>
               </br>
-                As characters in each of the four scenarios cross 
-                paths and link fates, so do that of the players 
-                as they meet in up to four-player, online 
-                co-op--forever changing the face of multiplayer 
-                gaming in the Resident Evil series. Got company? 
-                RE6's cooperative multiplayer can be enjoyed 
-                offline, as well. Just don't wake the neighbors.                
+                Assim como os destinos dos personagens se cruzam, os
+                jogadores também podem se encontrar em partidas cooperativas
+                online para até quatro pessoas, mudando para sempre o
+                multiplayer da série. Também é possível jogar em cooperação
+                offline. Só não acorde os vizinhos.
               </div>
             </div>
           </div>            
@@ -54,30 +51,28 @@ function StoryWrapper() {
           <div data-aos="fade" className={styles.story_descr}>
             <div className={styles.story_descr_bg}></div>
               <div className={styles.story_descr_inner}>
-                <h3 className={styles.story_lead}>STORY</h3>
+                <h3 className={styles.story_lead}>HISTÓRIA</h3>
                 <div className={styles.story_detail}>
-                    Over fifteen years since the destruction of Raccoon City...
-                    In the face of the continuing threat posed by 
-                    bioterrorism, the president of the United States 
-                    decides to finally shed light on the truth of what 
-                    happened in Raccoon City's final days. On the 
-                    day of his speech, a bioterrorist attack rocks the 
-                    seminar hall--and the truth is swallowed in darkness.
+                    Mais de quinze anos após a destruição de Raccoon City...
+                    Diante da ameaça contínua do bioterrorismo, o presidente
+                    dos Estados Unidos decide revelar a verdade sobre os
+                    últimos dias da cidade. No dia do discurso, um ataque
+                    bioterrorista atinge o local e a verdade mergulha na
+                    escuridão.
                   <br>
                   </br>
-                    However, the fight is not yet lost. In Tall 
-                    Oaks, USA, Leon S. Kennedy--framed for the 
-                    president's assassination--tries to save the 
-                    locals from the zombie threat. In Lianshiang, Chris Redfield
-                     must combat a bioterrorism situation of his own. 
-                     In the Republic of Edonia, a land wracked by 
-                     civil war, Jake is hunted by...something...inhuman. 
-                     And behind it all is Ada--though to what end, no 
-                     one knows.
+                    Mas a luta ainda não acabou. Em Tall Oaks, nos Estados
+                    Unidos, Leon S. Kennedy, acusado pelo assassinato do
+                    presidente, tenta salvar a população da ameaça zumbi.
+                    Em Lianshiang, Chris Redfield enfrenta uma crise
+                    bioterrorista. Na República de Edonia, devastada pela
+                    guerra civil, Jake é perseguido por algo desumano. E
+                    por trás de tudo está Ada, mas ninguém sabe com que
+                    objetivo.
                   <br>
                   </br>
-                     This is the story of their struggles, their triumphs, 
-                     and their failures played out on a global scale.
+                     Esta é a história de suas lutas, vitórias e derrotas
+                     em escala global.
                   <br>
                   </br>                    
                 </div>

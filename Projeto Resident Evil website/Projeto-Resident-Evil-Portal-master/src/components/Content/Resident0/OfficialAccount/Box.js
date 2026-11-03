@@ -20,7 +20,7 @@ function Box() {
   return (
     <div data-aos="fade" id='sns' className={styles.box}>
       <div className={styles.box_inner}>
-        <p className={styles.list_ttl}>OFFICIAL ACCOUNT</p>
+        <p className={styles.list_ttl}>CONTAS OFICIAIS</p>
         <ul className={styles.sns_list}>
           <li>
             <a href="https://www.youtube.com/user/ResidentEvil" target="_blank" rel="noreferrer">

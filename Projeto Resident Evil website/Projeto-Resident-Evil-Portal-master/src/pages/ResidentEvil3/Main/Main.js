@@ -10,7 +10,7 @@ function Main() {
           <h1 className={styles.title_logo_firstview}>
             <img src={Re3LogoIMG} alt="Resident Evil 3" />
           </h1>
-          <p className={styles.release_firstview}>Available Now</p>
+          <p className={styles.release_firstview}>Disponível</p>
         </div>
       </div>
     </div>

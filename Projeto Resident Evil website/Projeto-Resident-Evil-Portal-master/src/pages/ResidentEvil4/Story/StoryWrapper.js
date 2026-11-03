@@ -24,29 +24,23 @@ function StoryWrapper() {
             <div className={styles.system_descr_bg}></div>
               <div className={styles.system_descr_inner}>
               <h3 className={styles.system_lead}>                
-                Experience a new era of survival horror
+                Viva uma nova era do terror de sobrevivência
               </h3>
               <div  className={styles.system_detail}>
-                Step into the shoe of Leon S. Kennedy 
-                as he shines a light on the grim 
-                transformation of a European village 
-                while searching for the President's 
-                abducted daughter. Resident Evil 4 
-                introduced an over-the-shoulder camera 
-                and responsive action mechanics that didn't 
-                just influence future titles in the RE series, 
-                but the entire survival horror genre. 
+                Acompanhe Leon S. Kennedy enquanto ele desvenda a
+                transformação sombria de um vilarejo europeu durante a
+                busca pela filha sequestrada do presidente. Resident Evil 4
+                introduziu a câmera sobre o ombro e mecânicas de ação
+                responsivas que influenciaram não só os jogos seguintes da
+                série, mas todo o gênero de terror de sobrevivência.
               <br>
               </br>
               <br>
               </br>
-                A masterpiece as both a survival horror 
-                and action game, this title remains just as 
-                much fun now as it was when it was first released. 
-                This version of the game also contains 
-                Separate Ways, a new scenario that was 
-                included in HD rereleases of the original 
-                title.               
+                Uma obra-prima do terror de sobrevivência e da ação, este
+                jogo continua tão divertido quanto no lançamento. Esta
+                versão também inclui Separate Ways, cenário adicional
+                presente nos relançamentos em HD do jogo original.
               </div>
             </div>
           </div>            
@@ -58,26 +52,21 @@ function StoryWrapper() {
           <div data-aos="fade" className={styles.story_descr}>
             <div className={styles.story_descr_bg}></div>
               <div className={styles.story_descr_inner}>
-                <h3 className={styles.story_lead}>STORY</h3>
+                <h3 className={styles.story_lead}>HISTÓRIA</h3>
                 <div className={styles.story_detail}>
-                    Following the unprecedented disaster 
-                    of the Raccoon City Incident, the Umbrella 
-                    Corporation has collapsed under the weight 
-                    of public outrage and government intervention. 
-                    Leon S. Kennedy survived the city's fall, 
-                    and has now been assigned as a special 
-                    agent reporting to the President of the 
-                    United States.
+                    Após o desastre sem precedentes do Incidente de Raccoon
+                    City, a Umbrella Corporation entrou em colapso diante da
+                    indignação pública e da intervenção do governo. Leon S.
+                    Kennedy sobreviveu à queda da cidade e agora atua como
+                    agente especial a serviço do presidente dos Estados Unidos.
                   <br>
                   </br>
                   <br>
                   </br>
-                    After the President's daughter is kidnapped, 
-                    Leon is tasked with following eyewitness 
-                    reports leading him to a small village in 
-                    Europe to look for her. Even the horrors 
-                    of Raccoon City couldn't prepare Leon 
-                    for the secrets he would soon discover...
+                    Quando a filha do presidente é sequestrada, Leon segue
+                    relatos de testemunhas até um pequeno vilarejo europeu
+                    para encontrá-la. Nem os horrores de Raccoon City poderiam
+                    prepará-lo para os segredos que descobriria...
                   <br>
                   </br>
                 </div>

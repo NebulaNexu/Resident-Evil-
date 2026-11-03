@@ -30,28 +30,28 @@ function Main() {
     <nav>
     <ul>
       <li className={styles.current}>
-        <a>TOP</a>
+        <a>INÍCIO</a>
       </li>
       <li>
-        <a>ABOUT</a>
+        <a>SOBRE</a>
       </li>
       <li>
-        <a>MEDIA</a>
+        <a>MÍDIA</a>
       </li>
       <li>
-        <a>DEMO</a>
+        <a>DEMONSTRAÇÃO</a>
       </li>
       <li>
-        <a>GAMEPLAY</a>
+        <a>JOGABILIDADE</a>
       </li>
       <li>
         <a>DLC</a>
       </li>
       <li>
-        <a>PRODUCTS</a>
+        <a>PRODUTOS</a>
       </li>
       <li className={styles.goldeditonLink}>
-        <a>GOLD EDITION</a>
+        <a>Edição Gold</a>
       </li>
     </ul>
   </nav>
@@ -82,10 +82,10 @@ function Main() {
       <div data-aos="fade" className={styles.firstViewContents}>
         <div className={styles.firstViewContentsInner}>
           <p className={styles.sales}>
-            <span>Over 10.6 Million Copies Shipped Worldwide!</span>
+            <span>Mais de 10,6 milhões de cópias distribuídas no mundo todo!</span>
           </p>
           <div data-aos="fade" className={styles.logoArea}>
-            <h1 className={styles.lead}>Available Now</h1>
+            <h1 className={styles.lead}>Disponível</h1>
             <h1>
               <img src={IMGLogo} alt="" />
             </h1>
@@ -101,7 +101,7 @@ function Main() {
                           <figure>                          
                             <img src={IMGVillage} alt="" />
                               <figcaption>                              
-                                Resident Evil Village Gold Edition adds 3 major new features!        
+                                Resident Evil Village Gold Edition traz três grandes novidades!
                               </figcaption>                            
                           </figure>
                         </a>
@@ -114,9 +114,7 @@ function Main() {
                           <figure>
                             <img src={IMGBnr} alt="" />
                             <figcaption>                             
-                              Three acclaimed titles have finally arrived on next-gen consoles with
-                            
-                              upgrades!                          
+                              Três títulos aclamados chegaram aos consoles da nova geração com melhorias!
                             </figcaption>
                           </figure>
                         </a>
@@ -128,7 +126,7 @@ function Main() {
                 <li className={styles.news}>
                   <a className={styles.newsModal_cboxElement}>
                     <span className={styles.text}>
-                      Resident Evil 7: 4K for Xbox One X! Free update available!
+                      Resident Evil 7 em 4K para Xbox One X! Atualização gratuita disponível!
                     </span>
                   </a>
                 </li>
@@ -144,7 +142,7 @@ function Main() {
           <ul className={styles.clearfix}>
             <li className={styles.list_btn}>
               <span className={styles.date}>10/19/2022 </span>
-              <span className={styles.text}>Sobre the closure of Stadia servers </span>
+              <span className={styles.text}>Sobre o encerramento dos servidores do Stadia </span>
             <p className={styles.btn}></p>
             </li>
           </ul>
@@ -152,10 +150,10 @@ function Main() {
           <ul className={styles.clearfix}>
             <li className={styles.list_btn}>
               <span className={styles.date}>6/15/2022 </span>
-              <span className={styles.text}>Notice regarding Resident Evil 7 biohazard obtained from the 
+              <span className={styles.text}>Aviso sobre Resident Evil 7 biohazard obtido por meio da
               <br>
               </br>
-              PlayStation®Plus Collection </span>
+                Coleção PlayStation®Plus </span>
             <p className={styles.btn}></p>
             </li>
           </ul>
@@ -163,7 +161,7 @@ function Main() {
           <ul className={styles.clearfix}>
             <li className={styles.list_btn}>
               <span className={styles.date}>12/14/2021 </span>
-              <span className={styles.text}>Version Update for Resident Evil 7 Biohazard </span>
+              <span className={styles.text}>Atualização de versão de Resident Evil 7 biohazard </span>
             <p className={styles.arrow}></p>
             </li>
           </ul>
@@ -173,7 +171,7 @@ function Main() {
 
     <section className={styles.spec}>
       <div className={styles.inner}>
-        <h2>Game Info</h2>
+        <h2>Informações do jogo</h2>
         <div className={styles.right}>
           <ul>
             <li>
@@ -187,21 +185,21 @@ function Main() {
             </li>
 
             <li>
-              <span className={styles.title}>Players</span>
+              <span className={styles.title}>Jogadores</span>
               <span className={styles.text}>
                 1
               </span>
             </li>
 
             <li>
-              <span className={styles.title}>Genre</span>
+              <span className={styles.title}>Gênero</span>
               <span className={styles.text}>
-                Survivor Horror
+                Terror de sobrevivência
               </span>
             </li>
 
             <li>
-              <span className={styles.title}>ESRB Rating</span>
+              <span className={styles.title}>Classificação ESRB</span>
               <span className={styles.text}>
                 <img src={IMGErsb} alt="" />
                 <br>
@@ -246,7 +244,7 @@ function Main() {
         </li>
 
         <li className={styles.btnManual}>
-          <a>Official Web Manual</a>
+          <a>Manual oficial online</a>
         </li>
       </ul>
     </section>

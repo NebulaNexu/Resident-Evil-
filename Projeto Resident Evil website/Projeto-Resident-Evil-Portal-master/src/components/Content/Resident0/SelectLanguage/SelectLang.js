@@ -15,7 +15,7 @@ const SelectLang = () => {
 
   return (
     <div data-aos="fade" className={styles.select_lang}>
-      <a href=''>Select Language</a>
+      <a href=''>Selecionar idioma</a>
     </div>
   )
 }

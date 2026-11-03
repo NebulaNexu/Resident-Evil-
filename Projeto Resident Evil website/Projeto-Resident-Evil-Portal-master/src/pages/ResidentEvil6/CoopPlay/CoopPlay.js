@@ -14,16 +14,13 @@ function CoopPlay() {
 
       <div className={styles.coopPlay_descr}>
         <div className={styles.coopPlay_descr_inner}>
-          <div className={styles.coopPlay_lead}>Team Up in Co-Op!</div>
+          <div className={styles.coopPlay_lead}>Jogue em equipe no modo cooperativo!</div>
           <div className={styles.coopPlay_detail}>
-            In the Nintendo Switch™ downloadable 
-            version, team up with a partner in co-op 
-            on Nintendo Switch™ Online! What's 
-            more, you can also play split screen co-op 
-            using a local connection! Try various 
-            playing styles such as using two consoles 
-            or sharing Nintendo Switch™ Joy-Con™ 
-            controllers between two players!
+            Na versão digital para Nintendo Switch™, forme dupla no modo
+            cooperativo online pelo Nintendo Switch™ Online! Também é
+            possível jogar em tela dividida usando uma conexão local.
+            Experimente diferentes formas de jogar, como usar dois consoles
+            ou compartilhar os controles Joy-Con™ entre duas pessoas!
           </div>
         </div>
       </div>

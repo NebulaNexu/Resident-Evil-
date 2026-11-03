@@ -24,24 +24,22 @@ const StoryWrapper = () => {
             <div className={styles.system_descr_bg}></div>
               <div className={styles.system_descr_inner}>
               <h3 className={styles.system_lead}>
-                Unearth the fate of S.T.A.R.S. Bravo Team, 
-                before the events of Resident Evil.
+                Descubra o destino da equipe Bravo dos S.T.A.R.S.,
+                antes dos acontecimentos de Resident Evil.
               </h3>
               <div  className={styles.system_detail}>
-                RE0 details the events aboard the Ecliptic Express, 
-                which led up to the Mansion Incident depicted in RE1. 
-                This ambitious prequel featured various mechanics that 
-                were new to the series, including the partner zapping 
-                system which allows players to switch between the two 
-                protagonists on the fly.
+                RE0 conta o que aconteceu a bordo do Ecliptic Express,
+                antes do Incidente da Mansão retratado em RE1. Este
+                prelúdio ambicioso trouxe mecânicas inéditas para a série,
+                incluindo o sistema de troca de parceiros, que permite
+                alternar entre os dois protagonistas a qualquer momento.
               <br>
               </br>
               <br>
               </br>
-                Wesker Mode* lets you experience the game in a whole 
-                new way by introducing series antagonist Albert Wesker 
-                as a playable character, complete with his superhuman 
-                powers.                
+                O Modo Wesker* permite jogar de uma maneira totalmente
+                nova, com o antagonista Albert Wesker como personagem
+                jogável e seus poderes sobre-humanos.
               </div>
             </div>
           </div>            
@@ -53,29 +51,27 @@ const StoryWrapper = () => {
           <div data-aos="fade" className={styles.story_descr}>
             <div className={styles.story_descr_bg}></div>
               <div className={styles.story_descr_inner}>
-                <h3 className={styles.story_lead}>STORY</h3>
+                <h3 className={styles.story_lead}>HISTÓRIA</h3>
                 <div className={styles.story_detail}>
-                    In the year 1998, the Raccoon City Police Department 
-                    dispatched their elite unit S.T.A.R.S. Bravo Team to 
-                    investigate a series of bizarre murders on the outskirts 
-                    of the Midwestern city.
+                    Em 1998, o Departamento de Polícia de Raccoon City enviou
+                    sua equipe de elite S.T.A.R.S. Bravo para investigar uma
+                    série de assassinatos bizarros nos arredores da cidade.
                   <br>
                   </br>
                   <br>
                   </br>
-                    While en route, the team's helicopter is forced to make 
-                    an emergency landing falling a sudden engine failure. The 
-                    team set out from the crash site only to discover that 
-                    the forest where they landed hid an overturned military 
-                    vehicle, dead soldiers, and orders for the transport of 
-                    Billy Coen, a prisoner who had been sentenced to death.
+                    Durante o trajeto, uma falha no motor força o helicóptero
+                    da equipe a fazer um pouso de emergência. Ao deixar o local
+                    da queda, o grupo encontra um veículo militar capotado,
+                    soldados mortos e ordens para transportar Billy Coen, um
+                    prisioneiro condenado à morte.
                   <br>
                   </br>
                   <br>
                   </br>
-                    As the team continue their search of the area, rookie member 
-                    Rebecca Chambers discovers a passenger train. Seeing no signs 
-                    of life, she steps on board...
+                    Enquanto a equipe continua a busca, a novata Rebecca
+                    Chambers encontra um trem de passageiros. Sem ver sinais
+                    de vida, ela embarca...
                 </div>
               </div>            
           </div>

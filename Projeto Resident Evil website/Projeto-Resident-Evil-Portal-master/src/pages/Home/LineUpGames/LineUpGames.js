@@ -94,7 +94,7 @@ const LineUpGames = ({
           autoplay='1'
           loop                
         />
-        <h2 data-aos="fade">TITLE LINEUP</h2>
+        <h2 data-aos="fade">JOGOS DA SÉRIE</h2>
         <div data-aos="fade-up" className={styles.features_content}>
 
           <div className={styles.features_content_card}>

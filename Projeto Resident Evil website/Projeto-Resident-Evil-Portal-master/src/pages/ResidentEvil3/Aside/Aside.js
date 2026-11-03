@@ -22,7 +22,7 @@ function Aside() {
           <div className={styles.links_manual}>
             <div className={styles.link_btn}>
               <div className={styles.btn}>
-                <a>Official Web Manual</a>
+                <a>Manual oficial online</a>
               </div>
             </div>
           </div>
@@ -32,7 +32,7 @@ function Aside() {
           <div className={styles.sns_link}>
             <p className={styles.label}>
               <span className={styles.mark_bracket}>[</span>
-                OFFICIAL ACCOUNTS
+                CONTAS OFICIAIS
               <span className={styles.mark_bracket}>]</span>
             </p>
             
@@ -94,7 +94,7 @@ function Aside() {
               <div className={styles.btn}>
                 <a>
                     Resident Evil 3
-                  <small>TOP</small>
+                    <small>INÍCIO</small>
                 </a>
               </div>
             </div>

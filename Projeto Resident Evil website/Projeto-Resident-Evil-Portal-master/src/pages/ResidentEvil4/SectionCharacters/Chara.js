@@ -34,7 +34,7 @@ function Chara() {
 
           <li className={styles.chara_item_ganados}>
               <CharaGanados />
-            <div className={styles.chara_item_name_ganados}>The Mysterious Cult</div>
+            <div className={styles.chara_item_name_ganados}>O culto misterioso</div>
           </li>
 
         </ul>

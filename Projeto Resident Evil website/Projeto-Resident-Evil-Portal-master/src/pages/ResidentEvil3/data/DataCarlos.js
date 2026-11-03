@@ -2,8 +2,8 @@ import Carlos from '../../../images/Resident3Remake/carlos_img.png';
 
 export const InfoCarlos = {
   title: "Carlos Oliveira.",
-    paragraphOne: "However, Jill is one of few surviving members after the team saw numerous losses to the shambling corpses and monstrous creatures they encountered while investigating reports of missing persons in what has become known as the Mansion Incident.",
-    paragraphTwo: "A survivor of that incident, Jill is determined to continue investigating Umbrella, the creators of the deadly T-Virus at the heart of the incident, but her investigation has been impeded by a suspension and an order to remain at home. What's more, her apartment appears to be under round-the-clock surveillance. The entire city seems to be under Umbrella's control, with the police force being no exception. Jill has decided to escape from her confines in Raccoon City in order to bring Umbrella's evil to light, but this may not prove so simple...",
+    paragraphOne: "Carlos Oliveira é um integrante da U.B.C.S., a unidade paramilitar da Umbrella enviada a Raccoon City para resgatar civis durante o surto. Apesar de jovem, ele é um soldado experiente e habilidoso.",
+    paragraphTwo: "Ao encontrar Jill Valentine, Carlos se une a ela para ajudá-la a escapar da cidade. Embora tenha sido enviado em uma missão de resgate, ele começa a questionar as intenções da Umbrella e arrisca a própria vida para proteger os sobreviventes.",
     image: Carlos,
     alt: "Carlos",
     delay: 100,

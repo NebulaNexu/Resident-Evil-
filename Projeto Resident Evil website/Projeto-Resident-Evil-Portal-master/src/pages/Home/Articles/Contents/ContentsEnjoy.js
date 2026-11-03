@@ -14,15 +14,15 @@ function ContentsEnjoy() {
       <div className={styles.contents_enjoy_fancontents}>
         <div className={styles.inner}>
         <Fade bottom duration={2000}>
-          <h3>CONTENTS
-            <span>Enviar out contents to enjoy Resident Evil more!</span>
+          <h3>CONTEÚDOS
+            <span>Confira conteúdos para aproveitar ainda mais Resident Evil!</span>
           </h3>
           </Fade>
           <Fade bottom duration={2000}>
             <div className={styles.fancontents_list}>
               <h4>
                 <img src={ContentIMG} alt="content1" loading="lazy" />
-                <span>A Space to Share Memories</span>
+                <span>Um espaço para compartilhar lembranças</span>
               </h4>
               <div className={styles.slide_area}>
                 <ul className={styles.slide_area_list}>
@@ -30,14 +30,14 @@ function ContentsEnjoy() {
                     <a>
                       <img src={List1IMG} alt="list1" loading='lazy'/>
                       <p className={styles.list_text}>
-                        Shinji Mikami and Jun Takeuchi Looking 
-                        Voltar on 25 Years of Resident Evil (Extra)
+                        Shinji Mikami e Jun Takeuchi relembram
+                        os 25 anos de Resident Evil (extra)
                       </p>
                       <p className={styles.list_category}>
                         <span className={styles.list_date}>
-                          Sep.02.2022
+                          2 set. 2022
                         </span>
-                          UNDER THE UMBRELLA
+                          SOB A UMBRELLA
                       </p>
                     </a>
                   </li>
@@ -57,13 +57,12 @@ function ContentsEnjoy() {
                     <a>
                       <img src={List2IMG} alt="list2" loading='lazy'/>
                       <p className={styles.list_text_orchestra}>
-                        Enjoy the TOKYO GAME MUSIC FES concert, 
-                        while reliving the horrors of Resident 
-                        Evil!
+                        Curta o concerto TOKYO GAME MUSIC FES
+                        e reviva os horrores de Resident Evil!
                       </p>
                       <p className={styles.list_category_orchestra}>
                         <span className={styles.list_date_orchestra}>
-                          Jun.21.2022
+                          21 jun. 2022
                         </span>
                       </p>
                     </a>
@@ -75,7 +74,7 @@ function ContentsEnjoy() {
 
           <Fade right duration={2600}>
             <a className={styles.btn}>
-              MORE
+              MAIS
             </a>
           </Fade>
         </div>

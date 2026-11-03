@@ -13,28 +13,25 @@ function UpdateMotion() {
       <div className={styles.update_descr}>
         <div className={styles.update_descr_inner}>
           <div className={styles.update_lead}>
-            New Update Enables Motion Controls with the Joy-Con™!
+            Nova atualização adiciona controles por movimento com o Joy-Con™!
           </div>
           <div className={styles.update_detail}>
-            Do you want more than the standard controls? 
-            With this update, you can now access 
-            motion controls via the Joy-Con™!
+            Quer ir além dos controles tradicionais? Com esta atualização,
+            você pode usar os controles por movimento do Joy-Con™!
             <br>
             </br>
-            Aim with a weapon, perform a knife 
-            attack, reload ammo, and shake free 
-            from enemies!
+            Mire com uma arma, ataque com a faca, recarregue munição e
+            escape dos inimigos sacudindo os controles!
           </div>
           <ul className={styles.additional_content_notesList}>
             <li className={styles.additional_content_notesItem}>
-              Note: These Joy-Con™ functions are only 
-              compatible with dual-controller grip.
+              Observação: estas funções do Joy-Con™ são compatíveis somente
+              com os controles acoplados ao suporte para dois controles.
             </li>
             <li className={styles.additional_content_notesItem}>
-              However, aiming with a weapon is available 
-              when using handheld mode, a Nintendo Switch™ 
-              Lite, Joy-Con™ solo horizontal grip, or the 
-              Nintendo Switch Pro Controller.
+              A mira com armas também funciona no modo portátil, no
+              Nintendo Switch™ Lite, com um Joy-Con™ na horizontal ou
+              com o controle Nintendo Switch Pro.
             </li>
           </ul>
         </div>

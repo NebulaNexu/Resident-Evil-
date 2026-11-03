@@ -2,8 +2,8 @@ import Mikhail from '../../../images/Resident3Remake/mikhail_img.png';
 
 export const InfoMikhail = {
   title: "Mikhail Victor.",
-    paragraphOne: "Mikhail is a member of Umbrella's private military unit, U.B.C.S., and the platoon leader of its Delta Platoon. He has excellent leadership skills and a long history in commanding roles.",
-    paragraphTwo: "He has led U.B.C.S. Delta Platoon into Raccoon City on a mission to rescue civilians, but the chaos encountered there has exceeded all expectations, leading to the decimation of the platoon and personal injuries to Mikhail. Nevertheless, Mikhail is determined to save every civilian who can be reached, and refuses to retreat until this goal has been accomplished to the best of his ability.",
+    paragraphOne: "Mikhail é integrante da unidade militar privada da Umbrella, a U.B.C.S., e líder do pelotão Delta. Ele tem excelentes habilidades de liderança e uma longa experiência em cargos de comando.",
+    paragraphTwo: "Mikhail conduziu o pelotão Delta da U.B.C.S. até Raccoon City para resgatar civis, mas o caos superou todas as expectativas. O grupo sofreu muitas baixas e Mikhail ficou ferido. Ainda assim, ele está determinado a salvar todos os civis que puder e se recusa a recuar até cumprir essa missão da melhor maneira possível.",
     image: Mikhail,
     alt: "Mikhail",
     delay: 100,

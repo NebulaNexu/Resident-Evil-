@@ -13,7 +13,7 @@ function Notícias() {
     <div className={styles.know_news} id="news">
       <div className={styles.inner}>
         <Fade bottom duration={2500}>
-          <h3>NEWS</h3>
+          <h3>NOTÍCIAS</h3>
         </Fade>
         <ul className={styles.news_list}>
           <Fade duration={2250}>
@@ -23,14 +23,13 @@ function Notícias() {
                 <img src={Card1IMG} alt="" />
               </div>
                 <p className={styles.list_text}>                
-                  RE NET supports the Additional 
-                  Contents from Gold Edition! 
-                  Enjoy Resident Evil Village 
-                  even more            
+                  O RE NET oferece suporte aos conteúdos
+                  adicionais da Edição Gold! Aproveite
+                  ainda mais Resident Evil Village
                 </p>
                 <p className={styles.list_category}>
                 <span className={styles.list_date}>
-                  Oct.28.2022
+                  28 out. 2022
                 </span>                
                   RE NET            
               </p>
@@ -44,14 +43,13 @@ function Notícias() {
                 <img src={Card2IMG}alt="" />
               </div>
                 <p className={styles.list_text}>                  
-                  et's utilize RE NET to check 
-                  your match results and play 
-                  info including exclusive 
-                  info on the web!                          
+                  Use o RE NET para conferir seus
+                  resultados e dados de jogo, incluindo
+                  informações exclusivas na web!
                 </p>
                 <p className={styles.list_category}>
                 <span className={styles.list_date}>
-                  Oct.28.2022
+                  28 out. 2022
                 </span>                
                   RE NET             
               </p>
@@ -65,16 +63,15 @@ function Notícias() {
                 <img src={Card3IMG} alt="" />
               </div>
                 <p className={styles.list_text}>                
-                  The Resident Evil Village: 
-                  Gold Edition Gameplay Demo, 
-                  sporting the new Third-Person 
-                  Mode, is now available!              
+                  A demonstração de Resident Evil Village:
+                  Edição Gold, com o novo modo em terceira
+                  pessoa, já está disponível!
                 </p>
                 <p className={styles.list_category}>
                 <span className={styles.list_date}>
-                  Oct.21.2022
+                  21 out. 2022
                 </span>                
-                  Game            
+                  Jogo
               </p>
             </a>
           </li>
@@ -86,24 +83,22 @@ function Notícias() {
                 <img src={Card4IMG} alt="" />
               </div>
                 <p className={styles.list_text}>                
-                  Pre-orders for Resident Evil 4 
-                  are now available! Check out 
-                  the special collector's edition! 
-                  It's filled to the brim with stuff 
-                  sure to please any fan!            
+                  Resident Evil 4 já está em pré-venda!
+                  Confira a edição especial de colecionador,
+                  repleta de itens que vão agradar aos fãs!
                 </p>
                 <p className={styles.list_category}>
                 <span className={styles.list_date}>
-                  Oct.17.2022
+                  17 out. 2022
                 </span>                
-                  Game            
+                  Jogo
               </p>
             </a>
           </li>
           </Fade>
         </ul>
         <a className={styles.btn} alt="btn">
-          MORE
+          MAIS
         </a>
       </div>
     </div>

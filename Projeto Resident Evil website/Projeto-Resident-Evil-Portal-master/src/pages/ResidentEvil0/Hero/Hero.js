@@ -42,8 +42,8 @@ const Hero = ({ toggle }) => {
               alt="Nintendo Switch" />
             </div>
             <div className={styles.firstView_switch_info}>
-              <div className={styles.firstView_switch_text}>Nintendo Switch™ version</div>
-              <div className={styles.firstView_switch_date}>Available Now</div>
+              <div className={styles.firstView_switch_text}>Versão para Nintendo Switch™</div>
+              <div className={styles.firstView_switch_date}>Disponível</div>
             </div>
           </div>
           <div className={styles.firstView_otherPlats}>
@@ -51,7 +51,7 @@ const Hero = ({ toggle }) => {
           </div> 
         </div>
         <div onClick={ toggle } className={styles.firstView_scroll}>
-          <Link to="story" spy={true} smooth={true} duration={800}>SCROLL</Link>
+          <Link to="story" spy={true} smooth={true} duration={800}>ROLE A PÁGINA</Link>
         </div>                    
     </div>
   );

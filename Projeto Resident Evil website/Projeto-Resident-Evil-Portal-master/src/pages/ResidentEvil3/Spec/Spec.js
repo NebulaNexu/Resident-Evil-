@@ -23,13 +23,13 @@ function Spec() {
 
         <div className={styles.spec_box}>
           <div className={styles.box_genre}>
-            <p>Genre: Survival Horror</p>
+            <p>Gênero: Terror de sobrevivência</p>
           </div>
           <div className={styles.box_release}>
-            <p>Data de lançamento: Available Now</p>
+            <p>Data de lançamento: Disponível</p>
           </div>
           <div className={styles.box_players}>
-            <p>Number of Players: 1</p>
+            <p>Número de jogadores: 1</p>
           </div>
         </div>
 

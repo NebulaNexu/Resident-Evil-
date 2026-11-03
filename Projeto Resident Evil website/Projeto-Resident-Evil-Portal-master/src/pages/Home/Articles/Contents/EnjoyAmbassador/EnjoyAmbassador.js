@@ -12,27 +12,25 @@ function EnjoyAmbassador() {
         <Fade bottom duration={2400}>
           <div className={styles.ambassador_left}>
             <h3>
-              AMBASSADOR
-              <span>Resident Evil Ambassador program</span>
+              EMBAIXADOR
+              <span>Programa de embaixadores de Resident Evil</span>
             </h3>
             <p>
-              Share your enthusiasm for 
-              Resident Evil with fans around 
-              the world!
+              Compartilhe sua paixão por Resident Evil
+              com fãs de todo o mundo!
             </p>
-            <a className={styles.btn}>
-              MORE
-            </a>
+            <button type="button" className={styles.btn}>
+              MAIS
+            </button>
           </div> 
         </Fade>
 
         <Fade duration={2800}>
           <a className={styles.ambassador_card}>
             <p>
-              Players who actively share their 
-              positive experiences online can 
-              get access to special content 
-              and opportunities.
+              Quem compartilha suas experiências
+              positivas on-line pode ter acesso a
+              conteúdos e oportunidades especiais.
             </p>
             <span>
               <img src={CardIMG} alt="Img Card" />

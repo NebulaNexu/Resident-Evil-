@@ -7,7 +7,7 @@ function PageBuy() {
     <div className={styles.page_buy_btn}>
       <div className={styles.btn_anchor}>
         <a>
-          <span className={styles.btn_inner}>BUY</span>
+          <span className={styles.btn_inner}>COMPRAR</span>
           <span className={styles.btn_bg}></span>
         </a>
       </div>

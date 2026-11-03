@@ -15,7 +15,7 @@ function AdditionalContent() {
       <div className={styles.additional_content_descr}>
         <div className={styles.additional_content_descr_inner}>
           <div className={styles.additional_content_lead}>
-            This game contains the following additional content:
+            Este jogo inclui os seguintes conteúdos adicionais:
           </div>
           <div className={styles.additional_content_sublead}>
             -The Mercenaries United
@@ -35,9 +35,8 @@ function AdditionalContent() {
           <div className={styles.additional_content_detail}></div>
           <ul className={styles.additional_content_notesList}>
             <li className={styles.additional_content_notesItem}>
-              *The Mercenaries United is a combination of 
-              ”The Mercenaries” and ”The Mercenaries Reunion”. 
-              It does not contain new content.
+              *The Mercenaries United combina os modos "The Mercenaries"
+              e "The Mercenaries Reunion". Não inclui conteúdo inédito.
             </li>
             <li className={styles.additional_content_notesItem}></li>
           </ul>

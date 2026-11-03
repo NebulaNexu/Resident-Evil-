@@ -24,32 +24,26 @@ function StoryWrapper() {
             <div className={styles.system_descr_bg}></div>
               <div className={styles.system_descr_inner}>
               <h3 className={styles.system_lead}>                
-                Fear Never Grows Old
+                O medo nunca envelhece
               </h3>
               <div  className={styles.system_detail}>
-                Resident Evil 5 was first released in 2009.
-                Similarly, it's been ten years since 
-                Chris Redfield's first brush with fear 
-                at an old mansion in Raccoon City. 
-                Now, in a blistering land far away
-                from home, Agent Redfield must 
-                eliminate a new threat and an old 
-                nemesis--Albert Wesker.
-                Traverse areas of blinding light and 
-                impenetrable darkness in the first 
-                Resident Evil bold enough to bring 
-                horror into the daylight. With online 
-                and couch co-op, you need not face 
-                the fear alone. 
+                Resident Evil 5 foi lançado em 2009. Dez anos se passaram
+                desde que Chris Redfield enfrentou o medo pela primeira vez
+                em uma antiga mansão de Raccoon City. Agora, em uma região
+                escaldante e distante de casa, o agente precisa eliminar
+                uma nova ameaça e um velho inimigo: Albert Wesker.
+                Atravesse cenários de luz ofuscante e escuridão impenetrável
+                no primeiro Resident Evil a levar o horror à luz do dia.
+                Com cooperação online ou local, você não precisa enfrentar
+                o medo sozinho.
               <br>
               </br>
               <br>
               </br>
-                Enter Sheva Alomar--a powerful new ally. 
-                Together, she and Chris will pit themselves 
-                against an incredible enemy to determine 
-                which is stronger, their fear or their 
-                faith in each other.               
+                Conheça Sheva Alomar, uma nova e poderosa aliada. Juntos,
+                ela e Chris enfrentarão um inimigo extraordinário e
+                descobrirão o que é mais forte: o medo ou a confiança
+                que têm um no outro.
               </div>
             </div>
           </div>            
@@ -61,21 +55,17 @@ function StoryWrapper() {
           <div data-aos="fade" className={styles.story_descr}>
             <div className={styles.story_descr_bg}></div>
               <div className={styles.story_descr_inner}>
-                <h3 className={styles.story_lead}>STORY</h3>
+                <h3 className={styles.story_lead}>HISTÓRIA</h3>
                 <div className={styles.story_detail}>
-                    Ten years ago, the Umbrella Corporation 
-                    unleashed a biological threat of 
-                    unprecedented proportions on Raccoon City. 
-                    Chris Redfield, one of the few survivors 
-                    of the incident, is now working as an 
-                    agent for the Bioterrorism Security 
-                    Assessment Alliance (BSAA). 
-                    His mission: head to the Kijuju Autonomous 
-                    Zone in an undisclosed African country 
-                    and apprehend an arms dealer specializing 
-                    in biological weapons. Little did he know 
-                    that a darker force was at play--one that 
-                    bore a familiar face...
+                    Dez anos atrás, a Umbrella Corporation lançou sobre
+                    Raccoon City uma ameaça biológica sem precedentes.
+                    Chris Redfield, um dos poucos sobreviventes, agora é
+                    agente da Aliança de Avaliação de Segurança contra
+                    Bioterrorismo (BSAA). Sua missão é ir à Zona Autônoma
+                    de Kijuju, em um país africano não identificado, e
+                    capturar um traficante de armas biológicas. Chris não
+                    imaginava que uma força ainda mais sombria estava em
+                    ação, com um rosto que lhe era familiar...
                   <br>
                   </br>
                 </div>

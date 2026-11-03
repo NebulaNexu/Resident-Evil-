@@ -14,7 +14,7 @@ function Character() {
   
   return (
     <div className={styles.conts_box_character} id="character">
-      <h2 className={styles.sec_ttl_character}>CHARACTER</h2>
+      <h2 className={styles.sec_ttl_character}>PERSONAGENS</h2>
         <div className={styles.conts_box_inner_character}>
           <div className={styles.col_box_pc_human_character}>
                      {/* Jill Valentine */}

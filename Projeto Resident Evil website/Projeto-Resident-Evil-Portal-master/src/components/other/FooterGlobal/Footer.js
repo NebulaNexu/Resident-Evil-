@@ -48,7 +48,7 @@ function FooterGlobal() {
         <ul className={styles.title_footer_menu}>
           <li>
             <a>
-              Privacy Policy
+              Política de privacidade
             </a>
           </li>
         </ul>

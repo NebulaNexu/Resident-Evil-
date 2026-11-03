@@ -37,7 +37,7 @@ function Chara() {
 
           <li className={styles.chara_item_adversaries}>
               <CharaAdversaries />
-            <div className={styles.chara_item_name_adversaries}>Adversaries</div>
+            <div className={styles.chara_item_name_adversaries}>Adversários</div>
           </li>
 
         </ul>

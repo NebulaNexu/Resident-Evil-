@@ -24,28 +24,24 @@ function StoryWrapper() {
             <div className={styles.system_descr_bg}></div>
               <div className={styles.system_descr_inner}>
               <h3 className={styles.system_lead}>
-                The original survival horror experience
+                A experiência original de terror de sobrevivência
               </h3>
               <div  className={styles.system_detail}>
-                Experience the world-class remaster that brought the 
-                1996 horror classic back to life. The original 2002 
-                remaster not only featured reimagined HD environments 
-                and characters, but also enhanced vocal performances 
-                to create an even more terrifying retelling of the 
-                original story. The remaster launched to widespread 
-                success, and established itself as a survival horror 
-                masterpiece.
+                Conheça a remasterização de excelência que trouxe de volta
+                o clássico de terror de 1996. A versão de 2002 recriou
+                cenários e personagens em HD e aprimorou as interpretações
+                de voz, tornando a história original ainda mais aterrorizante.
+                O sucesso do lançamento consolidou o jogo como uma obra-prima
+                do terror de sobrevivência.
               <br>
               </br>
               <br>
               </br>
-                This HD remaster features all of the chilling moments and 
-                claustrophobic tension of the original release, and also 
-                includes the Wesker's Report and Wesker's Report II video 
-                features. This timeless interpretation allows you to 
-                discover the mysteries at the heart of the abandoned mansion 
-                like never before, and struggle to survive the nightmares 
-                walking its halls.                
+                Esta remasterização em HD mantém os momentos arrepiantes e
+                a tensão claustrofóbica do lançamento original, além de
+                incluir os vídeos Wesker's Report e Wesker's Report II.
+                Explore como nunca os mistérios da mansão abandonada e lute
+                para sobreviver aos pesadelos que percorrem seus corredores.
               </div>
             </div>
           </div>            
@@ -57,26 +53,27 @@ function StoryWrapper() {
           <div data-aos="fade" className={styles.story_descr}>
             <div className={styles.story_descr_bg}></div>
               <div className={styles.story_descr_inner}>
-                <h3 className={styles.story_lead}>Survive the horror</h3>
+                <h3 className={styles.story_lead}>Sobreviva ao horror</h3>
                 <div className={styles.story_detail}>
-                    In the year 1998, the Raccoon City Police Department dispatched 
-                    their elite unit S.T.A.R.S. Bravo Team to investigate a series 
-                    of bizarre murders on the outskirts of the Midwestern city.
+                    Em 1998, o Departamento de Polícia de Raccoon City enviou
+                    sua equipe de elite S.T.A.R.S. Bravo para investigar uma
+                    série de assassinatos bizarros nos arredores da cidade.
                   <br>
                   </br>
                   <br>
                   </br>
-                    After Bravo Team goes missing the S.T.A.R.S. Alpha Team set out 
-                    to survey the forest where Bravo Team was last heard from, only 
-                    to discover the wreckage of Bravo Team's helicopter and the 
-                    corpse of their pilot.
+                    Quando a equipe Bravo desaparece, a equipe Alpha dos
+                    S.T.A.R.S. parte para investigar a floresta onde ela foi
+                    vista pela última vez. Lá, encontra os destroços do
+                    helicóptero e o corpo do piloto.
                   <br>
                   </br>
                   <br>
                   </br>
-                    Chris Redfield leads Alpha Team deeper into the forest to continue 
-                    their search, where their unit is ambushed by a pack of undead dogs. 
-                    The team flee into a nearby mansion, unaware of the horrors to come...
+                    Chris Redfield conduz a equipe Alpha floresta adentro,
+                    mas o grupo é emboscado por cães mortos-vivos. A equipe
+                    foge para uma mansão próxima, sem imaginar os horrores
+                    que a aguardam...
                 </div>
               </div>            
           </div>

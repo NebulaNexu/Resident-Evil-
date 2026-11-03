@@ -61,7 +61,7 @@ export default function SlickList () {
           <a>
             <img src={IMG} alt="" />
             <div className={styles.text}>
-              <p>Resident Evil 3 Collector's Edition</p>
+              <p>Edição de colecionador de Resident Evil 3</p>
             </div>
           </a>          
         </SwiperSlide>        
@@ -70,8 +70,8 @@ export default function SlickList () {
           <a>
             <img src={IMG2} alt="" />
             <div className={styles.text}>
-              <p>Three acclaimed titles have finally 
-              arrived on next-gen consoles with upgrades!</p>
+              <p>Três títulos aclamados chegam aos consoles da nova geração
+              com melhorias!</p>
             </div>
           </a>
         </SwiperSlide>
@@ -80,9 +80,8 @@ export default function SlickList () {
           <a>
             <img src={IMG3} alt="" />
             <div className={styles.text}>
-              <p>Resident Evil 4 has been reimagined with 
-              modernized gameplay, a reimagined storyline 
-              and vividly detailed graphics.</p>
+              <p>Resident Evil 4 foi recriado com jogabilidade modernizada,
+              uma nova abordagem para a história e gráficos muito detalhados.</p>
             </div>
           </a>
         </SwiperSlide>
@@ -91,9 +90,8 @@ export default function SlickList () {
           <a>
             <img src={IMG4} alt="" />
             <div className={styles.text}>
-              <p>In-game rewards unlock DLC for the 
-              Resident Evil 3 campaign available for 
-              purchase on August 6!</p>
+              <p>As recompensas do jogo desbloqueiam conteúdo adicional para
+              a campanha de Resident Evil 3, disponível para compra em 6 de agosto!</p>
             </div>
           </a>        
         </SwiperSlide>
@@ -102,9 +100,8 @@ export default function SlickList () {
           <a>
             <img src={IMG5} alt="" />
             <div className={styles.text}>
-              <p>The Classic Costume Pack is now 
-              available, with designs based on 
-              Resident Evil 3: Nemesis!</p>
+              <p>O pacote de trajes clássicos já está disponível, com visuais
+              inspirados em Resident Evil 3: Nemesis!</p>
             </div>
           </a>        
         </SwiperSlide>
@@ -113,7 +110,7 @@ export default function SlickList () {
           <a>
             <img src={IMG6} alt="" />
             <div className={styles.text}>
-              <p>Demo version available now!</p>
+              <p>Versão de demonstração disponível!</p>
             </div>
           </a>        
         </SwiperSlide>
@@ -122,9 +119,8 @@ export default function SlickList () {
           <a>
             <img src={IMG7} alt="" />
             <div className={styles.text}>
-              <p>Saiba mais about the events 
-              that have transpired in Raccoon City, 
-              the setting for Resident Evil 3.</p>
+              <p>Saiba mais sobre os acontecimentos em Raccoon City,
+              cenário de Resident Evil 3.</p>
             </div>
           </a>        
         </SwiperSlide>

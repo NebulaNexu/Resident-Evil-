@@ -18,9 +18,9 @@ const ProductDownload = () => {
   return (
     <>
       <div data-aos="fade" className={styles.otherplat}>
-        <h3 className={styles.otherplat_lead}>Purchase for another platform</h3>
+        <h3 className={styles.otherplat_lead}>Adquira para outra plataforma</h3>
         <div className={styles.product_media_lead}>
-          <span>Downloadable Edition</span>
+          <span>Versão digital</span>
         </div>
         <ul className={styles.otherplat_list}>
           <li className={styles.otherplat_item_ps}>

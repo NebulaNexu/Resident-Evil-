@@ -15,9 +15,8 @@ function AdditionalContent() {
       <div className={styles.additional_content_descr}>
         <div className={styles.additional_content_descr_inner}>
           <div className={styles.additional_content_lead}>
-          All previously released DLC for 
-          online and offline 
-          multiplayer included.
+          Inclui todos os conteúdos adicionais lançados para o modo
+          multijogador online e offline.
           </div>
           <div className={styles.additional_content_sublead}>
             -Survivor Mode

@@ -18,27 +18,27 @@ function Especification () {
     <div data-aos="fade-right" className={styles.spec}>
       <ul className={styles.spec_list}>
         <li className={styles.spec_item}>
-          <div className={styles.spec_item_head}>Release :</div>
-          <div className={styles.spec_item_data}>Available Now</div>
+          <div className={styles.spec_item_head}>Lançamento:</div>
+          <div className={styles.spec_item_data}>Disponível</div>
         </li>
         <li className={styles.spec_item}>
-          <div className={styles.spec_item_head}>Genre :</div>
-          <div className={styles.spec_item_data}>Survival Horror</div>
+          <div className={styles.spec_item_head}>Gênero:</div>
+          <div className={styles.spec_item_data}>Terror de sobrevivência</div>
         </li>
         <li className={styles.spec_item}>
-          <div className={styles.spec_item_head}>Players :</div>
+          <div className={styles.spec_item_head}>Jogadores:</div>
           <div className={styles.spec_item_data}>1</div>
         </li>
         <li className={styles.spec_item_rating_wrap}>
-          <div className={styles.rating_head}>Rating :</div>
-          <div className={styles.rating_data}> Mature (17+)</div>
+          <div className={styles.rating_head}>Classificação:</div>
+          <div className={styles.rating_data}>Adultos (17+)</div>
           <div className={styles.rating_image}>
             <img src={RateIMG} alt="Rate Img" />
           </div>
         </li>
       </ul>
       <div className={styles.law_manual_area}>
-        <a className={styles.law_manual_btn} href="https://game.capcom.com/manual/bio0/" target="_blank" rel="noreferrer">OFFICIAL WEB MANUAL</a>
+        <a className={styles.law_manual_btn} href="https://game.capcom.com/manual/bio0/" target="_blank" rel="noreferrer">MANUAL OFICIAL ONLINE</a>
       </div>
     </div>
   )

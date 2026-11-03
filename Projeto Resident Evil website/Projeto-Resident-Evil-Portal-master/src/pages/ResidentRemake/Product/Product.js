@@ -19,37 +19,34 @@ const Product = () => {
     <div id="product" className={styles.product_wrap}>
       <div data-aos="fade" className={styles.product}>
         <div className={styles.product_ttlset}>
-          <h3 className={styles.product_ttl}>PRODUCT</h3>
+          <h3 className={styles.product_ttl}>PRODUTO</h3>
           <h2 className={styles.product_ttl_main}>Nintendo Switch™</h2>
           <ul className={styles.spec_note_list}>
             <li className={styles.spec_note_item}>
-              Extra content may differ from previous platforms.</li>
+              O conteúdo adicional pode variar conforme a plataforma.</li>
           </ul>
         </div>
         <div className={styles.product_package}>
           <div className={styles.product_media_lead}>
-              <span>Physical Edition</span>
+              <span>Versão física</span>
           </div>
           <div className={styles.product_flexwrap}>
             <div className={styles.product_descr}>
               <div className={styles.product_lead}>
-                  Get the full story of the Mansion Incident: 
-                  pick up the Resident Evil Origins Collection 
-                  and get two titles in one set!
+                  Conheça toda a história do Incidente da Mansão: adquira
+                  Resident Evil Origins Collection e leve dois jogos em um só pacote!
               </div>
               <div className={styles.product_set_title}>
                   <img src={PromoLogoIMG} alt="Logo Promo" />
               </div>
               <div className={styles.product_package_notes}>
                 <p className={styles.product_package_notes_strong}>
-                  This package contains the game card for                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-                  Resident Evil 0 HD Remaster and a download 
-                  code for Resident Evil HD Remaster.
+                  Este pacote contém o cartão de jogo de Resident Evil 0 HD
+                  Remaster e um código para baixar Resident Evil HD Remaster.
                 </p>
                 <p className={styles.with_indent}>
-                  An internet connection and Nintendo 
-                  Account are also required to download 
-                  the game.
+                  É necessária uma conexão com a internet e uma Conta
+                  Nintendo para baixar o jogo.
                 </p>
               </div>
             </div>
@@ -60,7 +57,7 @@ const Product = () => {
         </div>
         <div className={styles.product_download}>
           <div className={styles.product_media_lead}>
-            <span>Downloadable Edition</span>
+            <span>Versão digital</span>
           </div>
           <div className={styles.product_flex_wrap}>
             <div className={styles.product_image_download}>
@@ -70,11 +67,11 @@ const Product = () => {
               <div className={styles.product_download_lead}></div>
               <a className={styles.product_btn} href="https://www.nintendo.com/games/detail/resident-evil-0-switch"
                 target="blank">
-                <span>Buy Now</span>
+                <span>Comprar</span>
               </a>
               <ul className={styles.product_notes}>
                 <li className={styles.product_notes_item}>
-                  (Only available as a download)
+                  (Disponível somente para download)
                 </li>
               </ul>
             </div>

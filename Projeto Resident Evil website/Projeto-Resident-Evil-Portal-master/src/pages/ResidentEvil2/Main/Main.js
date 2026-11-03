@@ -33,8 +33,8 @@ const Main = () => {
           <img src={LogoIMG} 
           alt="Logo" />
         </div>
-        <h3>Available Now</h3>
-        <h4>©2022 Capcom Co.,Ltd. All rights reserved. Feito por Fã</h4>
+        <h3>Disponível</h3>
+        <h4>©2022 Capcom Co., Ltd. Todos os direitos reservados. Feito por fã</h4>
         <h5>PS4, &nbsp;PS5,&nbsp;  Xbox,&nbsp; Xbox Series,&nbsp; PC</h5>
       </div>
     </div>
